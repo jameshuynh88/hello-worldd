@@ -1,2 +1,4 @@
 # hello-worldd
-Just another repository I'm testing
+Dear Coding,
+
+I am trying to master you and become better. I want to be able to get far with this skill. 
